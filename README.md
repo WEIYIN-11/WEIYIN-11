@@ -1,8 +1,8 @@
-# Hi, I'm Wei-Yin Cheng 👋
+I'm Wei-Yin Cheng 👋
 
-**AI Systems Architect** — I don't hand-write algorithms. I design systems, direct AI agents to build them, and verify everything against first-hand data. Open to **remote** roles in AI product / growth / content.
+I design systems, direct AI agents to build them, and verify everything against first-hand data. Open to remote roles in AI product / growth / content.
 
-### What I've shipped (all AI-agent-orchestrated, all verifiable)
+What I've shipped (all AI-agent-orchestrated, all verifiable)
 
 - 🧪 **[Coolkid AI Lab](https://www.coolkidlab.com)** — build-in-public lab: **80+ articles** documenting real AI-agent workflows and SEO/GEO experiments with public Search Console data — including the failures. Site, build system, and publishing are all run by AI agents I direct.
 - 🔌 **[Coolkidlab plugins](https://github.com/Coolkidlab-Yin/Coolkidlab)** — open-source Claude Code plugins: `article-overlap-checker` (semantic duplicate detection for content sites) and `competitor-content-map` (sitemap-based content-gap analysis).
@@ -17,11 +17,11 @@ Before that: 7 years of B2B sales & business management, and full-time index-fut
 
 ---
 
-# 嗨,我是 Wei-Yin Cheng 👋
+我是 Wei-Yin Cheng 👋
 
-**AI 流程架構師** — 我不手寫演算法:我設計系統、指揮 AI agent 把它做出來,再用一手數據驗證每一步。找**遠端**的 AI 產品 / 成長 / 內容類職位。
+我設計系統、指揮 AI agent 做出許多工作流及網站,再用一手數據驗證每一步。想找遠端的 AI 產品 / 成長 / 內容類職位。
 
-### 做出來的東西(全部由 AI agent 協作完成,全部可驗證)
+做出來的東西(全部由 AI agent 協作完成,全部可驗證)
 
 - 🧪 **[Coolkid AI Lab](https://www.coolkidlab.com)** — build-in-public 實驗室:**80+ 篇**文章記錄真實 AI agent 工作流與 SEO/GEO 實驗,數據來自公開的 Search Console — 連失敗都照寫。網站、建置系統、發布管線全由我指揮 AI agent 運作。
 - 🔌 **[Coolkidlab plugins](https://github.com/Coolkidlab-Yin/Coolkidlab)** — 開源 Claude Code 插件:`article-overlap-checker`(文章撞稿檢查)與 `competitor-content-map`(對手內容地圖)。
