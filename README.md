@@ -1,43 +1,17 @@
-I'm Wei-Yin Cheng 👋
+I'm Wei-Yin Cheng. I work full-time in SEO, and I lean on AI for almost everything I do.
 
-I design systems, direct AI agents to build them, and verify everything against first-hand data. Open to remote roles in AI product / growth / content.
+My own site, coolkidlab.com, is where I put that to work. It's a Traditional Chinese site about AI workflows and SEO experiments, now at 160 articles, and the site, its build system and its publishing flow were all made together with AI. Search traffic went from zero in May to about 3,000 clicks and 66,000 impressions in October, with an average position of 5.7. Along the way I took PageSpeed from 67 to 93 and a GEO audit score from 70 to 81, and wrote up each step on the site, mistakes included.
 
-What I've shipped (all AI-agent-orchestrated, all verifiable)
+The repos here are tools that came out of that work. One checks whether two articles on the same site are competing for the same search. The other reads competitors' sitemaps to find topics nobody has covered yet.
 
+Before this I spent seven years in medical sales, and I've traded index futures since 2022.
 
-**[Coolkid AI Lab](https://www.coolkidlab.com)** — build-in-public lab: **80+ articles** documenting real AI-agent workflows and SEO/GEO experiments with public Search Console data — including the failures. Site, build system, and publishing are all run by AI agents I direct.
+我是 Wei-Yin，目前全職做 SEO，平常做什麼事都大量用 AI。
 
-**[Coolkidlab plugins](https://github.com/Coolkidlab-Yin/Coolkidlab)** — open-source Claude Code plugins: `article-overlap-checker` (semantic duplicate detection for content sites) and `competitor-content-map` (sitemap-based content-gap analysis).
+自己的網站 coolkidlab.com 就是拿來實際用的地方，寫 AI 工作流和 SEO 實驗，目前 160 篇，網站、建置和上線流程都是跟 AI 一起做出來的。搜尋流量從 5 月的零，到 10 月一個月約 3,000 次點擊、6.6 萬次曝光，平均排名 5.7。中間把 PageSpeed 從 67 拉到 93、GEO 稽核分數從 70 拉到 81，每一步都寫在站上，做錯的也照寫。
 
+這裡的 repo 是做站時順手做成的工具。一個檢查同一個網站裡有沒有兩篇文章在搶同一個搜尋，一個讀對手的 sitemap，找還沒人寫的題目。
 
-**Autonomous publishing pipeline** — GitHub Actions cron + state machine + Telegram alerting: ships a scheduled article and its social post daily, unattended, with self-healing retry and token-expiry warnings.
+再往前是七年醫療業務，2022 年起做指數期貨交易。
 
-**[Ark Blueprint](https://www.ark-blueprint.com)** — technical partner at an investment-education platform; I own the website engineering.
-
-Before that: 7 years of B2B sales & business management, and full-time index-futures trading since 2022 — I bring domain judgment and shipping discipline, not a CS degree.
-
-**Stack**: Claude Code · Python · GitHub Actions · Vercel · GA4 / Search Console · Telegram Bot API
-
-[LinkedIn](https://www.linkedin.com/in/cheng-wei-yin-0b911a21a) · [coolkidlab.com](https://www.coolkidlab.com)
-
----
-
-我是 Wei-Yin Cheng 👋
-
-我設計系統、指揮 AI agent 做出許多工作流及網站,再用一手數據驗證每一步。想找遠端的 AI 產品 / 成長 / 內容類職位。
-
-做出來的東西(全部由 AI agent 協作完成,全部可驗證)
-
-**[Coolkid AI Lab](https://www.coolkidlab.com)** — build-in-public 實驗室:**80+ 篇**文章記錄真實 AI agent 工作流與 SEO/GEO 實驗,數據來自公開的 Search Console — 連失敗都照寫。網站、建置系統、發布管線全由我指揮 AI agent 運作。
-
-**[Coolkidlab plugins](https://github.com/Coolkidlab-Yin/Coolkidlab)** — 開源 Claude Code 插件:`article-overlap-checker`(文章撞稿檢查)與 `competitor-content-map`(對手內容地圖)。
-
-**全自動發布管線** — GitHub Actions 排程 + 狀態機 + Telegram 告警:每天無人值守上線一篇排程文章與配套社群貼文,含自癒重試與 token 到期預警。
-
-**[方舟藍圖](https://www.ark-blueprint.com)** — 投資理財教育平台技術合夥人,負責官網工程。
-
-擁有 7 年 B2B 業務與商務管理、2022 年起全職指數期貨交易 — 我帶來的是領域判斷力與交付紀律,不是資工學歷。
-
-**技術棧**:Claude Code · Python · GitHub Actions · Vercel · GA4 / Search Console · Telegram Bot API
-
-[LinkedIn](https://www.linkedin.com/in/cheng-wei-yin-0b911a21a) · [coolkidlab.com](https://www.coolkidlab.com)
+[coolkidlab.com](https://www.coolkidlab.com) · [LinkedIn](https://www.linkedin.com/in/cheng-wei-yin-0b911a21a)
